@@ -1,0 +1,2 @@
+# .github
+Scintillar's home
